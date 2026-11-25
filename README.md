@@ -2,7 +2,7 @@
 
 Console program that simulates one day of operation at a small railway station: train arrivals and departures through a single platform, a last-in-first-out train yard, and a VIP ticket office whose passengers are assigned to departing trains. It reads a scenario from CSV files and writes the results to CSV files.
 
-Academic project for the *Algorithms and Data Structures* course (CTeSP in Web and Mobile Development, IPLUSO — Instituto Politécnico da Lusofonia, Lisbon). Written in Python, using only the standard library.
+Academic group project for the *Algorithms and Data Structures* course (CTeSP in Web and Mobile Development, IPLUSO — Instituto Politécnico da Lusofonia, Lisbon), developed by a group of students that included Pedro Caldeira. Written in Python, using only the standard library.
 
 ## What it does
 
